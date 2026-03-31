@@ -2,9 +2,10 @@
 using namespace as std;
 
 int main() {
-  int n;
+  int n,x;
+  cin >> n;
   for (int i = 0; i<n; i++) {
-  cin >> n; 
+    cin >> x;
 }
   return 0;
 }
